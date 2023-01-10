@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevspecial
-- 👀 I’m interested in fullstack software development, Web development, devOPs and CyberSecurity
+- 👀 I’m interested in fullstack software development, Web development and DevOps
 - 🌱 I’m currently working with Python, Ruby and Javascripts
 - 💞️ I’m looking to collaborate on Projects that'll give me more experience
 - 📫 Reach me on telegram( @OG_binary )
