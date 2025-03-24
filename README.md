@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![Vercel](https://github-readme-stats.vercel.app/api?username=Kevspecial &theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![Vercel](https://nirzak-streak-stats.vercel.app/?user=Kevspecial &theme=radical&hide_border=true)<br/>
-![Vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevspecial &theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevspecial &theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![Kevspecial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevspecial)](https://github.com/Kevspecial/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kevspecial &theme=radical&no-frame=false&no-bg=false&margin-w=4)
