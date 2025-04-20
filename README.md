@@ -3,12 +3,13 @@
   <img src="https://profile-counter.glitch.me/{Kevspecial}/count.svg" alt="Visitor's Count" />
 </div>
 
-# 💫 About Me:
-- 👋 Hi, I’m @Kevspecial<br>- 👀 I’m interested in AI, Web development, CyberSecurity and DevOps<br>- 🌱 I’m currently working with Python, Ruby and JavaScript<br>- 💞️ I’m looking to collaborate on Projects<br>- 📫 Reach me on telegram( @OG_binary )
-
+<div align="left"> 
+# 💫 Hi, I’m @Kevspecial 👋:
+- 👀 I’m interested in AI, Web development, CyberSecurity, and DevOps <br>- 🌱 I’m currently working with Python, Ruby and JavaScript<br>- 💞️ I’m looking to collaborate on Projects<br>- 📫 Reach me on telegram( @OG_binary )
+</div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binary.og) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KelvinNwokike) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knwokike) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binary.og) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KelvinNwokike) <br> [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knwokike) <br> [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com) <br> [![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
 
 # 💻 Tech Stack:
 ### Languges
