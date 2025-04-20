@@ -3,8 +3,9 @@
   <img src="https://profile-counter.glitch.me/{Kevspecial}/count.svg" alt="Visitor's Count" />
 </div>
 
-<div align="left"> 
+
 # 💫 Hi, I’m @Kevspecial 👋:
+<div align="left"> 
 - 👀 I’m interested in AI, Web development, CyberSecurity, and DevOps <br>- 🌱 I’m currently working with Python, Ruby and JavaScript<br>- 💞️ I’m looking to collaborate on Projects<br>- 📫 Reach me on telegram( @OG_binary )
 </div>
 
