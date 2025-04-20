@@ -5,8 +5,9 @@
 
 
 # 💫 Hi, I’m @Kevspecial 👋:
-<div align="left"> 
+<div> 
 - 👀 I’m interested in AI, Web development, CyberSecurity, and DevOps <br>- 🌱 I’m currently working with Python, Ruby and JavaScript<br>- 💞️ I’m looking to collaborate on Projects<br>- 📫 Reach me on telegram( @OG_binary )
+  <img align="right" width="400" src="https://github.com/Kevspecial/Kevspecial/blob/main/binaryog.gif.gif" />
 </div>
 
 ## 🌐 Socials:
