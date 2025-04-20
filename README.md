@@ -23,7 +23,7 @@
 ### Cloud and Infrastructures
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 # 📊 GitHub Stats:
-![Vercel](https://github-readme-stats.vercel.app/api?username=Kevspecial&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![Vercel](https://github-readme-stats.vercel.app/api?username=Kevspecial&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![Vercel](https://nirzak-streak-stats.vercel.app/?user=Kevspecial&theme=radical&hide_border=true)<br/>
 ![Vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevspecial&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
