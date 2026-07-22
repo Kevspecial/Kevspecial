@@ -3,21 +3,13 @@
 # <h1 align="center">💫 Hi, I’m Kelvin Arinze 👋 </h1>
 <h3 align="center">
 I'm a seasoned Security and Software Engineer based in Berlin, Germany. 
-</h3>
-
-## 🧑‍💻 Projects:
-[Kevspecial](https://github.com/Kevspecial)
-[Kevspecial](https://github.com/Kevspecial)
-[Kevspecial](https://github.com/Kevspecial)
-[Kevspecial](https://github.com/Kevspecial)
-[Kevspecial](https://github.com/Kevspecial)
+</h3> <br>
 
 <div>  <img align="right" width="350" src="https://github.com/Kevspecial/Kevspecial/blob/main/binaryog.gif.gif" />
-- 👀 I’m interested in AI, Web development, CyberSecurity, and DevOps <br>
-- - 🌱 I’m currently working with Python, Ruby, and JavaScript<br>- 💞️ I’m looking to collaborate on Projects<br>
-- - 📫 Reach me on telegram( @OG_binary )
-- <br>
-- -
+
+- 📫 Reach me on:
+- Email -[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com)
+- -telegram( @OG_binary )
 
 </div>
 
@@ -25,7 +17,7 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binary.og) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KelvinNwokike) <br> 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knwokike) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary) <br> 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com) <br> 
+ <br> 
 [![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
 <p align="left">
 <a href="https://dev.to/knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="knwokike" height="30" width="40" /></a>
@@ -38,6 +30,15 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 <a href="https://www.leetcode.com/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevspecial" height="30" width="40" /></a>
 <a href="https://discord.gg/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kevspecial" height="30" width="40" /></a>
 </p>
+
+
+# 🧑‍💻 Projects:
+- 👨‍💻[Kevspecial](https://github.com/Kevspecial)
+- 👨‍💻[Kevspecial](https://github.com/Kevspecial)
+- 👨‍💻[Kevspecial](https://github.com/Kevspecial)
+- 👨‍💻[Kevspecial](https://github.com/Kevspecial)
+- 👨‍💻[Kevspecial](https://github.com/Kevspecial)
+
 
 # 💻 Tech Stack:
 ### Languges
