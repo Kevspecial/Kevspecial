@@ -1,26 +1,48 @@
 
 
-# 💫 Hi, I’m @Kevspecial 👋
+# <h1 align="center">💫 Hi, I’m Kelvin Arinze 👋 </h1>
+<h3 align="center">
+I'm a seasoned Security and Software Engineer based in Berlin, Germany. 
+</h3>
 
-I'm a seasoned #Web, Security and Systems Engineer based in Berlin, Germany <br>
+## 🧑‍💻 Projects:
+[Kevspecial](https://github.com/Kevspecial)
+[Kevspecial](https://github.com/Kevspecial)
+[Kevspecial](https://github.com/Kevspecial)
+[Kevspecial](https://github.com/Kevspecial)
+[Kevspecial](https://github.com/Kevspecial)
+
 <div>  <img align="right" width="350" src="https://github.com/Kevspecial/Kevspecial/blob/main/binaryog.gif.gif" />
 - 👀 I’m interested in AI, Web development, CyberSecurity, and DevOps <br>
 - - 🌱 I’m currently working with Python, Ruby, and JavaScript<br>- 💞️ I’m looking to collaborate on Projects<br>
 - - 📫 Reach me on telegram( @OG_binary )
 - <br>
 - -
-## Languges
-
-  
 
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binary.og) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KelvinNwokike) <br> [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knwokike) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com) <br> [![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binary.og) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KelvinNwokike) <br> 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knwokike) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary) <br> 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com) <br> 
+[![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
+<p align="left">
+<a href="https://dev.to/knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="knwokike" height="30" width="40" /></a>
+<a href="https://twitter.com/knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knwokike" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevspecial" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kevspecial" height="30" width="40" /></a>
+<a href="https://fb.com/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevspecial" height="30" width="40" /></a>
+<a href="https://instagram.com/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevspecial" height="30" width="40" /></a>
+<a href="https://medium.com/@knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@knwokike" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevspecial" height="30" width="40" /></a>
+<a href="https://discord.gg/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kevspecial" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 ### Languges
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
 ### Database
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ### Frameworks
@@ -60,8 +82,9 @@ I'm a seasoned #Web, Security and Systems Engineer based in Berlin, Germany <br>
 
 <hr>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binary.og) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/binaryhubs?country.x=DE&locale.x=en_US) 
+  ## 💰 You can help me by Donating 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binary.og) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/binaryhubs?country.x=DE&locale.x=en_US) 
 
   
 
