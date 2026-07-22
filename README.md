@@ -7,12 +7,13 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 
 <div>  <img align="right" width="350" src="https://github.com/Kevspecial/Kevspecial/blob/main/binaryog.gif.gif" /> </div>
 
-### 🌐 Socials:
-- 📫 Reach me on:
-- Email -[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com)
+### 🌐 Reach me on:
+- Email 📫 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com)
 - -telegram( @OG_binary )
-<br>
+- 
 [![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary)
+
  <br>
 
 <p align="left">
