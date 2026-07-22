@@ -10,14 +10,10 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 ### 🌐 Reach me on:
 - Email 📫 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com)
 - -telegram( @OG_binary )
-- 
-[![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary)
-
- <br>
+- [![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary)
 
 <p align="left">
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary)
 <a href="https://dev.to/knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="knwokike" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kelvin-nwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevspecial" height="30" width="40" /></a>
 <br>
