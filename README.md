@@ -5,7 +5,7 @@
 I'm a seasoned Security and Software Engineer based in Berlin, Germany. 
 </h3> <br>
 
-<div>  <img align="right" width="350" src="https://github.com/Kevspecial/Kevspecial/blob/main/binaryog.gif.gif" />
+<div>  <img align="right" width="350" src="https://github.com/Kevspecial/Kevspecial/blob/main/binaryog.gif.gif" /> </div>
 
 ### 🌐 Socials:
 - 📫 Reach me on:
@@ -28,7 +28,7 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 <a href="https://discord.gg/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kevspecial" height="30" width="40" /></a>
 
 </p>
-</div>
+
 
 # 🧑‍💻 Projects:
 ##### 👨‍💻[ExploreCalifornia-DevOps](https://github.com/Kevspecial/ExploreCalifornia-DevOps)
