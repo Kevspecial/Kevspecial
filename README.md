@@ -21,8 +21,10 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 <a href="https://medium.com/@knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@knwokike" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevspecial" height="30" width="40" /></a>
 <a href="https://discord.gg/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kevspecial" height="30" width="40" /></a>
-
 </p>
+
+[![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
+<br>
 
 
 # 🧑‍💻 Projects:
