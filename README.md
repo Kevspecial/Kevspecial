@@ -148,6 +148,8 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Ruby on Rails: A Guide to Building High-Performance Backend Systems](https://medium.com/@knwokike/scaling-ruby-on-rails-a-guide-to-building-high-performance-backend-systems-e790acfadae8?source=rss-fe0a393ea8c3------2)
+- [Why you should use Ruby on Rails in 2024](https://medium.com/@knwokike/why-you-should-use-ruby-on-rails-in-2024-5576f8b0bc6f?source=rss-fe0a393ea8c3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔝 Top Contributed Repo
