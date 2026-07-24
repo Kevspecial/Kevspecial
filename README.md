@@ -12,13 +12,13 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 - Email 📫 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knwokike@gmail.com)  &  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OG_Binary)
 - -telegram( @OG_binary )
 <p align="left">
-<a href="https://dev.to/knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="knwokike" height="30" width="40" /></a>
+<a href="https://dev.to/kelvin_nwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="knwokike" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kelvin-nwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevspecial" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kevspecial" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9402269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kevspecial" height="30" width="40" /></a>
 <a href="https://instagram.com/binary_ai.hubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevspecial" height="30" width="40" /></a>
 <a href="https://medium.com/@knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@knwokike" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevspecial" height="30" width="40" /></a>
-<a href="https://discord.gg/kevspecial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kevspecial" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/knwokike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevspecial" height="30" width="40" /></a>
+<a href="https://discord.gg/binary.og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kevspecial" height="30" width="40" /></a>
 </p>
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23E4405F.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/binary_og/)
@@ -26,15 +26,19 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 
 
 # 🧑‍💻 Projects:
-##### 👨‍💻[ExploreCalifornia-DevOps](https://github.com/Kevspecial/ExploreCalifornia-DevOps)
-- devopssss
-##### 👨‍💻[Events Berlin](https://github.com/Kevspecial/Events_berlin)
+##### [ExploreCalifornia-DevOps — Self-Hosted Static Site with Full IaC Deployment 🏠](https://github.com/Kevspecial/ExploreCalifornia-DevOps)
+- Dockerized static site (nginx:alpine) deployed and fully lifecycle-managed by Terraform — no manual docker run or click-ops
+- Dual-domain routing via Traefik v3 from a single container — internal .binary hostname (LAN/Tailscale, resolved through a self-hosted AdGuard DNS rewrite) and a public domain, no duplicate deployments
+- RSpec test suite (unit + integration) validating the rendered site
+- Content-aware rebuilds: image triggers hash the Dockerfile, nginx config, and site content directly, so Terraform only rebuilds when something actually changed
+- Tech: Docker, Terraform, Traefik, nginx, Prometheus, Grafana, AdGuard Home, RSpec, SSH-based remote provisioning
+##### 👨[Events Berlin](https://github.com/Kevspecial/Events_berlin)
 - event app
-##### 👨‍💻[Kevspecial](https://github.com/Kevspecial)
+##### 👨[Kevspecial](https://github.com/Kevspecial)
 - 
-##### 👨‍💻[Kevspecial](https://github.com/Kevspecial)
+##### 👨[Kevspecial](https://github.com/Kevspecial)
 - 
-##### 👨‍💻[Kevspecial](https://github.com/Kevspecial)
+##### 👨[Kevspecial](https://github.com/Kevspecial)
 - 
 
 ## 💼 Looking For:
