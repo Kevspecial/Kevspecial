@@ -42,7 +42,7 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 - 
 
 ## 💼 Looking For:
-- Role: Fullstack Engineer, DevOps Engineer, AI Engineer, Cloud Engineer
+- Role: Fullstack AI Engineer, Cloud Security
 - Location: 📍 Berlin, Germany (open to relocations)
 - Work Authorization: ✅ EU Work Visa
 - Availability: ✅ Immediate
