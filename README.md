@@ -1,4 +1,4 @@
-
+*
 
 # <h1 align="center">💫 Hi, I’m Kelvin Arinze 👋 </h1>
 <h3 align="center">
@@ -32,17 +32,34 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 - RSpec test suite (unit + integration) validating the rendered site
 - Content-aware rebuilds: image triggers hash the Dockerfile, nginx config, and site content directly, so Terraform only rebuilds when something actually changed
 - Tech: Docker, Terraform, Traefik, nginx, Prometheus, Grafana, AdGuard Home, RSpec, SSH-based remote provisioning
-##### 👨[Events Berlin](https://github.com/Kevspecial/Events_berlin)
-- event app
-##### 👨[Kevspecial](https://github.com/Kevspecial)
-- 
-##### 👨[Kevspecial](https://github.com/Kevspecial)
-- 
+
+##### [Events Berlin — Full-Stack Event Ticketing Platform with Stripe Payments 🎟️](https://github.com/Kevspecial/Events_berlin)
+- Eventbrite-style platform: Rails 7.1 JSON API + Next.js 15 / React 19 front end, with attendee, organizer and admin roles enforced by Pundit and an ActiveAdmin back office
+- Checkout stays correct under concurrent buyers: ticket stock is row-locked while orders are created (no overselling), Stripe webhooks are handled idempotently, and a Sidekiq cron job releases unpaid 15-minute holds
+- Real door tickets: each ticket gets a unique code and a QR-coded PDF emailed by a background job; check-in locks the ticket so a code can't be scanned twice
+- Security and quality: JWT auth with token revocation, Rack::Attack rate limiting, Sentry monitoring, Brakeman and bundler-audit scans, 200+ Rails tests and 100+ Jest tests, deployed on Fly.io
+- Tech: Ruby on Rails, Next.js, React, TypeScript, TailwindCSS, PostgreSQL, Redis, Sidekiq, Stripe, Devise JWT, Prawn, Docker, GitHub Actions, Fly.io
+
+##### [NovaMart — Multi-Agent AI Customer Support on Amazon Bedrock AgentCore 🤖](https://github.com/Kevspecial/Multi-agent-e-commerce-customer-support-system)
+- Five Strands agents in an orchestrator → workers setup: Claude Haiku routes each request to inventory, policy, refund and communication specialists running on Claude Sonnet
+- Parallel RAG: the policy agent queries three Bedrock Knowledge Bases (returns, shipping, warranty) at the same time over S3 Vectors and merges the results into one grounded answer
+- Refund eligibility (30/60-day window per customer tier) is re-checked in code before any database write, so the model alone can't approve a refund; agents share state in DynamoDB with optimistic locking
+- Bedrock Guardrails on every model call (content filters, PII blocking and masking, denied topics), deployed to AgentCore Runtime with AgentCore Memory, end-to-end X-Ray tracing and CloudWatch logs; all 120/120 automated checks pass
+- Tech: Python, Amazon Bedrock, AgentCore, Strands Agents SDK, Bedrock Knowledge Bases, S3 Vectors, DynamoDB, Bedrock Guardrails, AWS CDK, X-Ray, CloudWatch
+
+##### [AI-Supported YouTube Learning Platform — Turns Videos into Courses with Quizzes 🎓](https://github.com/Kevspecial/ai-supported-youtube-learning-platform)
+- End-to-end pipeline: paste a YouTube link → audio extracted with yt-dlp/ffmpeg → timestamped transcript from OpenAI Whisper → split into ~10-minute modules with LLM-generated titles
+- Uses a different model for each job: Llama 3.3 70B writes module titles and DeepSeek-V3 writes multiple-choice quizzes (easy / medium / hard, with explanations), both through one OpenAI-compatible API, with fallbacks when model output can't be parsed
+- Three SQLite caches (transcripts, modules, quizzes) keyed by video ID, so slow and paid Whisper and LLM work runs only once per video
+- Flask API + JavaScript front end with an embedded player that jumps to each module's timestamp; Dockerized with gunicorn, covered by 42 unit, integration and end-to-end tests with external services mocked
+- Tech: Python, Flask, OpenAI Whisper, yt-dlp, ffmpeg, LLM APIs (Llama 3.3, DeepSeek), SQLite, Docker, gunicorn, unittest
+
+
 ##### 👨[Kevspecial](https://github.com/Kevspecial)
 - 
 
 ## 💼 Looking For:
-- Role: Fullstack AI Engineer, Cloud Security
+- Roles: Product / Full-stack / AI Software Engineer
 - Location: 📍 Berlin, Germany (open to relocations)
 - Work Authorization: ✅ EU Work Visa
 - Availability: ✅ Immediate
@@ -186,3 +203,4 @@ I'm a seasoned Security and Software Engineer based in Berlin, Germany.
 Kevspecial/Kevspecial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+*
