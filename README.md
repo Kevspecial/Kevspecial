@@ -2,7 +2,7 @@
 
 # <h1 align="center">💫 Hi, I’m Kelvin Arinze 👋 </h1>
 <h3 align="center">
-I'm a seasoned Security and Software Engineer based in Berlin, Germany. 
+Full-stack engineer in Berlin shipping secure web apps and GDPR-ready LLM systems, from idea to deploy.
 </h3> <br>
 
 <div>  <img align="right" width="350" src="https://github.com/Kevspecial/Kevspecial/blob/main/binaryog.gif.gif" /> </div>
